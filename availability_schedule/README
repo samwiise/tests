@@ -14,7 +14,7 @@ Following Sample Data is already populated:
  available_hours_in_a_day(day_hours) is a 24 character length string filled with "0" or "1" for each hour of the day,
  where "1" represents availibility status for particular user for that hour on a day.
 
-
+============================================== sample data start ==========================================
     day_hours = TimeHourSlotsInOneDay()
 
 
@@ -59,6 +59,7 @@ Following Sample Data is already populated:
                "created_time": "2018-06-06T00:00:05"})
 
 
+============================================== sample data end ==========================================
 
 Example API Usage:
 
